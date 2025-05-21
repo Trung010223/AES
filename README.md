@@ -14,3 +14,10 @@
         <img src="https://github.com/Trung010223/AES/blob/main/Screenshot%202025-05-21%20160654.png" alt="AIoTLab Logo" width="680"/>
     </p>
 </div>
+<h4>Phân tích ý tưởng</h4>
+<p>
+    <li>Mã hóa và giải mã tập tin văn bản (hoặc dữ liệu) ngay trên trình duyệt.</li>
+    <li>Sử dụng thuật toán AES (Advanced Encryption Standard).</li>
+    <li>Với khóa do người dùng tự nhập (độ dài tự do).</li>
+    <li>Không cần cài đặt phần mềm hoặc đăng ký tài khoản.</li>
+</p>
