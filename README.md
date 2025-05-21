@@ -5,8 +5,9 @@
 </h2>
 <br>
 <h2 align="center">
-   CRYPTOGRAPHY AND CYBER SECURITY
+   Ngô Quang Trung CNTT 17-01
 </h2>
+<h3>Mã hóa và giải mã AES</h3>
 <br>
 <div align="center">
     <p align="center">
