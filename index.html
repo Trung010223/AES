@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AES File Encryptor</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>AES File Encryptor</h1>
+      <div class="flexbox">
+        <!-- MÃ HÓA (BÊN TRÁI) -->
+        <div class="box">
+          <h2>🔐 Mã hóa</h2>
+          <label>Chọn file:</label>
+          <input type="file" id="encryptFile" />
+
+          <label>Nhập khóa (không giới hạn độ dài):</label>
+          <input type="text" id="encryptKey" placeholder="Nhập khóa mã hóa" />
+
+          <button onclick="encryptFile()">Mã hóa</button>
+        </div>
+
+        <!-- GIẢI MÃ (BÊN PHẢI) -->
+        <div class="box">
+          <h2>🔓 Giải mã</h2>
+          <label>Chọn file:</label>
+          <input type="file" id="decryptFile" />
+
+          <label>Nhập khóa (không giới hạn độ dài):</label>
+          <input type="text" id="decryptKey" placeholder="Nhập khóa giải mã" />
+
+          <button onclick="decryptFile()">Giải mã</button>
+        </div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
