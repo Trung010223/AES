@@ -10,6 +10,6 @@
 <br>
 <div align="center">
     <p align="center">
-        <img src="https://github.com/Trung010223/AES/blob/main/Screenshot%202025-05-21%20160654.png" alt="AIoTLab Logo" width="170"/>
+        <img src="https://github.com/Trung010223/AES/blob/main/Screenshot%202025-05-21%20160654.png" alt="AIoTLab Logo" width="680"/>
     </p>
 </div>
